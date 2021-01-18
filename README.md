@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/18737852/104889317-da253900-598f-11eb-8c69-e48da90dae59.jpg"/>
+<!--<img src="https://user-images.githubusercontent.com/18737852/104889317-da253900-598f-11eb-8c69-e48da90dae59.jpg"/> -->
 
 ##
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/askaaqib/)
